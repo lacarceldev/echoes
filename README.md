@@ -14,4 +14,11 @@
 
 📄 **[Complete GDD (PDF)](./docs/GDD_VS_Echoes.pdf)**
 
+## 📂 Repository Structure
+
+```text
+.
+├── docs/
+│   └── GDD_VS_Echoes.pdf           # Echoes GDD File
+└── README.md                       # Central Repository README
 ---
