@@ -13,6 +13,7 @@
 * **Core Mechanics:** Environment & Narrative Puzzles, Diegetic UI (in-game smartphone), non-combat evasion, spatial audio mechanics, and real-time environment shifts.
 
 📄 **[Complete VS GDD (PDF)](./docs/GDD_VS_Echoes.pdf)**
+📄 **[Official Press Kit (PDF)](./docs/PressKit.pdf)**
 
 ## 📂 Repository Structure
 
@@ -20,5 +21,6 @@
 .
 ├── docs/
 │   └── GDD_VS_Echoes.pdf           # Echoes GDD File
+│   └── PressKit.pdf                # Official Press Kit File
 └── README.md                       # Central Repository README
 ---
