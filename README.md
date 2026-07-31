@@ -12,7 +12,7 @@
 * **Platform:** PC (Steam, Epic Games)
 * **Core Mechanics:** Environment & Narrative Puzzles, Diegetic UI (in-game smartphone), non-combat evasion, spatial audio mechanics, and real-time environment shifts.
 
-📄 **[Complete GDD (PDF)](./docs/GDD_VS_Echoes.pdf)**
+📄 **[Complete VS GDD (PDF)](./docs/GDD_VS_Echoes.pdf)**
 
 ## 📂 Repository Structure
 
