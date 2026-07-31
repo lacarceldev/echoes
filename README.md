@@ -23,4 +23,3 @@
 │   └── GDD_VS_Echoes.pdf           # Echoes GDD File
 │   └── PressKit.pdf                # Official Press Kit File
 └── README.md                       # Central Repository README
----
